@@ -1,73 +1,95 @@
-<h1 align="center">Hey, I'm Shubham Sharma 👋</h1>
+<div align="center">
 
-<p align="center">
-  CS Undergrad • Backend Engineer • AI/ML Builder
-</p>
+# Shubham Sharma
 
-<p align="center">
-  <a href="www.linkedin.com/in/shubham-sharma-7a116b381">LinkedIn</a> •
-  Delhi, India
-</p>
+**Backend Engineer · AI/ML Builder · Multi-Agent Systems**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HERE)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+![Location](https://img.shields.io/badge/Delhi,_India-00B4D8?style=flat&logo=googlemaps&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open_to_Internships-2ECC71?style=flat)
 
-## 🧠 About Me
-
-- 🎓 CS undergrad entering my 3rd year — building things before I graduate
-- 🔧 Currently learning backend engineering hands-on with **Python & FastAPI**
-- 🤖 Exploring **AI Agents** (CrewAI) and building **ML models from scratch**
-- 🎯 Actively looking for **SDE / AI-ML internships**
-- 📌 I don't just read documentation — I build until it works
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-**Languages**
+CS undergrad who builds things to understand them. I don't do tutorials — I pick a problem and figure it out.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+I'm going deep on three tracks simultaneously:
+
+- **Backend Engineering** — Designing and building production-grade REST APIs with FastAPI, PostgreSQL, Redis, and Docker. I care about clean architecture, not just code that runs.
+- **ML & Deep Learning** — Building core algorithms from scratch before touching any framework. I want to understand what's happening under the hood.
+- **Multi-Agent AI Systems** — Building autonomous pipelines using LangChain + OpenAI and CrewAI + Gemini. Not wrappers around ChatGPT — actual agentic systems that plan, decide, and execute.
+
+I'm looking for an **SDE or AI/ML internship** where I can ship real things.
+
+---
+
+## Tech Stack
 
 **Backend**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=flat)
 
 **AI / ML**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
 ![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google&logoColor=white)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-
----
-
-## 🚧 Currently Building
-
-| Project | What it is | Stack |
-|--------|-----------|-------|
-| **Project Vega** | Backend API project — learning real-world backend engineering | Python, FastAPI, SQL |
-| **AI Data Pipeline** | Agentic pipeline that cleans, analyses & visualizes datasets automatically | Python, CrewAI |
-| **ML ** | Implementing core ML algorithms  | Python, NumPy |
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamSharma0803&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSharma0803&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+| # | Project | What it does | Stack | Status |
+|---|---------|-------------|-------|--------|
+| 1 | **[Project Vega](https://github.com/ShubhamSharma0803/project-vega)** | Production-grade backend API — auth, rate limiting, background tasks, caching | FastAPI · PostgreSQL · Redis · Docker | ✅ Live |
+| 2 | **[HireChain Backend](https://github.com/ShubhamSharma0803/hirechain-backend)** | Document fraud detection API using AI vision + blockchain verification | FastAPI · Gemini Vision · Solidity · PostgreSQL | ✅ Live |
+| 3 | **[AI Agents](https://github.com/ShubhamSharma0803/ai-agents)** | Multi-agent pipelines — data preprocessing, research automation, task orchestration | CrewAI · LangChain · OpenAI · Gemini | 🔧 Active |
+| 4 | **[ML From Scratch](https://github.com/ShubhamSharma0803/ml-from-scratch)** | Core ML + DL algorithms built from scratch with math explanations | Python · NumPy · PyTorch | 🔧 Active |
 
 ---
 
-## 📫 Let's Connect
+## What I'm Currently Working On
 
-If you're looking for an intern who ships code, learns fast, and doesn't make excuses —
+```text
+🔧  Backend architecture — async patterns, DB optimization, system design
+🤖  Multi-agent systems that do useful things autonomously
+🧮  Deep learning — CNNs, RNNs, attention mechanisms from scratch
+📖  Reading: Designing Data-Intensive Applications
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/shubham-sharma-7a116b381)
+---
+
+## Coding Activity
+
+[![WakaTime](https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg)](https://wakatime.com/@ShubhamSharma0803)
+
+> *I track every coding session. Consistency is the only strategy that works.*
+
+---
+
+## Let's Talk
+
+I'm looking for an internship where I can contribute meaningfully — not just fix CSS bugs.
+
+If you're building something in backend infrastructure or AI systems, let's connect.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HERE)
